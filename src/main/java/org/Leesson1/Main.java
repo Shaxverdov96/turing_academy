@@ -24,9 +24,17 @@ public class Main {
 //        System.out.println(b2);
 //        int i1 = b1;
 //        System.out.println();
-        int i2 =130;
-        byte b2 = (byte)12;
+//        int i2 =130;
+//        byte b2 = (byte)12;
 
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        // Complete this line
+        // Complete this line
+
+        System.out.println(a);
+        // Complete this line
+        // Complete this line
 
     }
 }
